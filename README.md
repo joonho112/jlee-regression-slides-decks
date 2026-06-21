@@ -5,6 +5,9 @@ This repository hosts the **74 rendered RevealJS lecture decks** for **BER 640
 
 > https://joonho112.github.io/jlee-regression-slides-decks/
 
+**Author:** JoonHo Lee · [jlee296@ua.edu](mailto:jlee296@ua.edu) · College of
+Education, University of Alabama
+
 ## What this is
 
 This is a **rendered mirror** — it contains only the built HTML output, not the
@@ -39,3 +42,10 @@ DECK_BASE = https://joonho112.github.io/jlee-regression-slides-decks/decks/
 
 Published from this repo's root on the `main` branch via GitHub Pages
 (Settings → Pages → Deploy from a branch → `main` / `root`).
+
+## License
+
+© 2026 **JoonHo Lee**. The lecture slide decks in this repository are licensed
+under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) —
+see [`LICENSE`](LICENSE). You are free to share and adapt the material for any
+purpose, including commercially, as long as you give appropriate credit.
