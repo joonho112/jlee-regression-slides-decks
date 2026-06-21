@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Quarto / build artifacts
+.quarto/
+*.quarto_ipynb
+
+# Python bytecode
+__pycache__/
+*.pyc
